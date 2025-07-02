@@ -46,3 +46,42 @@ git push origin main
  git update-index --assume-unchanged github_command.txt
  git update-index --assume-unchanged write_github_command.py
 
+ git update-index --assume-unchanged D2/donggang/1.MOV
+ git update-index --assume-unchanged D2/donggang/1.jpg
+ git update-index --assume-unchanged D2/donggang/10.jpg
+ git update-index --assume-unchanged D2/donggang/11.jpg
+ git update-index --assume-unchanged D2/donggang/12.jpg
+ git update-index --assume-unchanged D2/donggang/13.jpg
+ git update-index --assume-unchanged D2/donggang/14.jpg
+ git update-index --assume-unchanged D2/donggang/15.jpg
+ git update-index --assume-unchanged D2/donggang/16.jpg
+ git update-index --assume-unchanged D2/donggang/17.jpg
+ git update-index --assume-unchanged D2/donggang/18.jpg
+ git update-index --assume-unchanged D2/donggang/19.jpg
+ git update-index --assume-unchanged D2/donggang/2.jpg
+ git update-index --assume-unchanged D2/donggang/20.jpg
+ git update-index --assume-unchanged D2/donggang/21.jpg
+ git update-index --assume-unchanged D2/donggang/22.jpg
+ git update-index --assume-unchanged D2/donggang/23.jpg
+ git update-index --assume-unchanged D2/donggang/24.jpg
+ git update-index --assume-unchanged D2/donggang/25.jpg
+ git update-index --assume-unchanged D2/donggang/26.jpg
+ git update-index --assume-unchanged D2/donggang/27.jpg
+ git update-index --assume-unchanged D2/donggang/28.jpg
+ git update-index --assume-unchanged D2/donggang/29.jpg
+ git update-index --assume-unchanged D2/donggang/3.jpg
+ git update-index --assume-unchanged D2/donggang/30.jpg
+ git update-index --assume-unchanged D2/donggang/31.jpg
+ git update-index --assume-unchanged D2/donggang/32.jpg
+ git update-index --assume-unchanged D2/donggang/33.jpg
+ git update-index --assume-unchanged D2/donggang/34.jpg
+ git update-index --assume-unchanged D2/donggang/35A.jpg
+ git update-index --assume-unchanged D2/donggang/35B.jpg
+ git update-index --assume-unchanged D2/donggang/36.jpg
+ git update-index --assume-unchanged D2/donggang/37.jpg
+ git update-index --assume-unchanged D2/donggang/4.jpg
+ git update-index --assume-unchanged D2/donggang/5.jpg
+ git update-index --assume-unchanged D2/donggang/6.jpg
+ git update-index --assume-unchanged D2/donggang/7.jpg
+ git update-index --assume-unchanged D2/donggang/8.jpg
+ git update-index --assume-unchanged D2/donggang/9.jpg
